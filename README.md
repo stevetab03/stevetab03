@@ -1,5 +1,3 @@
-## Liyuan Zhang AKA H
-
 Senior BI professional with a deep foundation in quantitative finance and mathematical methods.  
 Focused on application of stochastic differential equations and advanced numerical methods to model and manage energy market dynamics.
 
