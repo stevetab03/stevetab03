@@ -5,4 +5,6 @@ Focused on application of stochastic differential equations and advanced numeric
 **Stack:** Python, SDE simulation, Power BI, SQL, Azure  
 **Background:** 10+ years building BI and analytics systems across energy, finance, and enterprise.
 
+Looking to connect with professionals and enthusiasts working on similar problems to explore potential collaborations.
+
 https://www.linkedin.com/in/hlzhang/
